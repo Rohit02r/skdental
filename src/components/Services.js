@@ -33,7 +33,7 @@ function Services() {
         <Row>
           {services.map((service, index) => (
             <Col md={4} className="mb-4" key={index} data-aos="fade-up">
-              <Card className="h-100 sb">
+              <Card className="h-100 sb mx-4">
                 <Card.Img variant="top " src={service.image} style={{height:'230px'}}/>
                 <Card.Body>
                   <Card.Title>{service.title}</Card.Title>
