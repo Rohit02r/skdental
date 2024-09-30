@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/skdental/static/css/main.67a067e7.css",
+    "main.js": "/skdental/static/js/main.51950d05.js",
+    "static/js/453.8d1ee37e.chunk.js": "/skdental/static/js/453.8d1ee37e.chunk.js",
+    "static/media/b1.jpg": "/skdental/static/media/b1.bdf08fefc768f4a82f9d.jpg",
+    "static/media/g2.jpg": "/skdental/static/media/g2.b2356abc25d30e16cde8.jpg",
+    "static/media/g1.jpg": "/skdental/static/media/g1.8bf7063e4b715bbd84d7.jpg",
+    "static/media/gen.jpg": "/skdental/static/media/gen.39949f822d8489a0cf38.jpg",
+    "static/media/orth.jpg": "/skdental/static/media/orth.9ef7d9f5dc5b4254ebc6.jpg",
+    "static/media/cos.jpg": "/skdental/static/media/cos.37138138ca4231ae0d28.jpg",
+    "static/media/cov.png": "/skdental/static/media/cov.ed8ad519a9494da9bc0d.png",
+    "static/media/logo.jpg": "/skdental/static/media/logo.75b17cf7ea9f2dec763c.jpg",
+    "static/media/i.svg": "/skdental/static/media/i.a05ff817360ff072dfe0c80487de8e87.svg",
+    "static/media/w.svg": "/skdental/static/media/w.73446a91f78019cbec1e2d190e9150b6.svg",
+    "static/media/y.svg": "/skdental/static/media/y.f22812069ff694f2221e4e8c04417755.svg",
+    "index.html": "/skdental/index.html",
+    "static/media/t.svg": "/skdental/static/media/t.35ad775867f49879e1f2ac10d0d541b6.svg",
+    "main.67a067e7.css.map": "/skdental/static/css/main.67a067e7.css.map",
+    "main.51950d05.js.map": "/skdental/static/js/main.51950d05.js.map",
+    "453.8d1ee37e.chunk.js.map": "/skdental/static/js/453.8d1ee37e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a067e7.css",
+    "static/js/main.51950d05.js"
+  ]
+}
