@@ -1,0 +1,19 @@
+.testimonials-container {
+    margin-bottom: 50px; 
+}
+.nam{
+    margin: 0%;
+}
+.tc{
+    background-color: white;
+    border-radius:  5px  5px;
+    color: black;
+    
+}
+
+
+.tc:hover{
+    border: 1px solid #FF8C9E;
+   
+   
+}

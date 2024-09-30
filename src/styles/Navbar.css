@@ -1,0 +1,17 @@
+.nb{
+    width: 100%;
+    background-color: #FF8C9E;
+}
+
+.nc:hover{
+    color: black;
+}
+
+.nc{
+    color: white;
+}
+.logo{
+    height: 35px;
+    width: 35px;
+   
+}
